@@ -1,0 +1,39 @@
+key 2     1
+key 3     2
+key 4     3
+key 5     4
+key 6     5
+key 7     6
+key 8     7
+key 9     8
+key 10    9
+key 11    0
+key 14    DEL
+
+key 116   POWER             WAKE
+key 103   DPAD_UP
+key 108   DPAD_DOWN
+key 105   DPAD_LEFT
+key 106   DPAD_RIGHT
+key 28    DPAD_CENTER
+key 102   HOME
+key 139   MENU
+key 158   BACK
+
+key 113   VOLUME_MUTE
+key 114   VOLUME_DOWN
+key 115   VOLUME_UP
+
+key 402   CHANNEL_UP
+key 403   CHANNEL_DOWN
+
+key 207   MEDIA_PLAY
+key 241   MEDIA_NEXT
+key 242   MEDIA_PREVIOUS
+
+key 212   CAMERA
+key 213   MUSIC
+key 215   ENVELOPE
+key 217   SEARCH
+key 150   EXPLORER
+

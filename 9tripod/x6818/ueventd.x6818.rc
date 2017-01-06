@@ -1,0 +1,29 @@
+/dev/vr                   0666   system     system
+/dev/nx_vpu               0666   system     system
+/dev/rtk_btusb            0666   bluetooth  net_bt_stack
+
+# ion
+/dev/ion                  0666   system     system
+
+# v4l2
+/dev/media0               0666   system     system
+/dev/v4l-subdev*          0666   system     system
+/dev/video*               0666   system     system
+
+# sw sync
+/dev/sw_sync              0666   system     system
+
+# scaler
+/dev/nxp-scaler           0666   system     system
+
+# hdmi-cec
+/dev/hdmi-cec             0666   system     system
+
+# serial
+/dev/ttySAC*              0666   system     system
+/dev/ttyGS*               0666   system     system
+/dev/ttyUSB*			  0666   radio      radio
+
+# i2c
+/dev/i2c-*                0666   system     system
+
